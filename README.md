@@ -39,13 +39,13 @@ El sistema se conecta a la API [ExchangeRate-API](https://www.exchangerate-api.c
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+    git clone [https://github.com/luimgy/ConversordeMonedas.git)
     ```
 2.  **Abrir en tu IDE:** Abre el proyecto clonado en tu IDE de preferencia (se recomienda IntelliJ IDEA).
 
 3.  **Instalar Dependencias:** El proyecto está configurado con Maven. El IDE debería detectar el archivo `pom.xml` y descargar la dependencia de Gson automáticamente.
 
-4.  **Ejecutar:** Localiza la clase `Main.java` dentro de la ruta `src/main/java/org/example` y ejecútala. Esto lanzará la interfaz gráfica de la aplicación.
+4.  **Ejecutar:** Localiza la clase `Main.java` dentro de la ruta `src/main/java/` y ejecútala. Esto lanzará la interfaz gráfica de la aplicación.
 
 ---
 
